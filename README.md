@@ -78,6 +78,10 @@ Here is how you can use the bluffpaddingcypher package to encrypt and decrypt te
     - Extracts the suffix length and removes the suffix.
     - Extracts the shift value.
     - Reverses the character shift to retrieve the original text.
+      
+## Example ScreenShot : 
+
+![image](https://github.com/neuqs90/bluffpadding-cypher-algorithm/assets/166356026/0ac613fb-0c2c-4b1f-94a5-dedd5b94be48)
 
 # Contribution : 
 
