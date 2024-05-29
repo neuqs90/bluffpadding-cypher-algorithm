@@ -87,6 +87,6 @@ Here is how you can use the bluffpaddingcypher package to encrypt and decrypt te
 
 Contributions are welcome! Please open an issue or submit a pull request on GitHub [Repository](https://github.com/neuqs90/bluffpadding-cypher-algorithm.git).
 
-# Authos : 
+# Author : 
 
 Name : Bhavya Padaliya
